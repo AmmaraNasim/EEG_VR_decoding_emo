@@ -1,1 +1,1 @@
-# EEG_VR_decoding_emo
+**Stereoscopic vision and emotional face processing**
