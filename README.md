@@ -15,4 +15,14 @@ https://www.cbs.mpg.de/2106779/a27_klotzsche.pdf
 
 https://jov.arvojournals.org/article.aspx?articleid=2792647 
 
+### Output
 
+This code outputs:
+
+Multiclass decoding of all four facial emotions (neutral, happy, angry, surprised) using one vs rest multiclass classification
+
+<img src="/visualisation/Multiclass decoding_pvalues.jpg" width="260" height="200">
+
+Decoding of all four facial emotions using one vs one classification. This example shows binary decoding classification of Happy vs Angry
+
+<img src="/visualisation/Happy vs Angry decoding_pvalues.jpg" width="260" height="200">
