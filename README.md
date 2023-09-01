@@ -21,8 +21,8 @@ This code outputs:
 
 Multiclass decoding of all four facial emotions (neutral, happy, angry, surprised) using one vs rest multiclass classification
 
-<img src="/visualisation/Multiclass decoding_pvalues.jpg" width="260" height="200">
+<img src="/visualisation/ Multiclass decoding_pvalues.jpg" width="360" height="300">
 
 Decoding of all four facial emotions using one vs one classification. This example shows binary decoding classification of Happy vs Angry
 
-<img src="/visualisation/Happy vs Angry decoding_pvalues.jpg" width="260" height="200">
+<img src="/visualisation/ Happy vs Angry decoding_pvalues.jpg" width="360" height="300">
